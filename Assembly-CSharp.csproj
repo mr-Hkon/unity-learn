@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{62BFCEF0-3ACA-C187-79DE-3CE670E2906B}</ProjectGuid>
+    <ProjectGuid>{D53C6A20-2A77-4D2D-FB78-327AC9CF48B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -70,6 +70,7 @@
     <Compile Include="Assets\playsound.cs" />
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\anenemy.cs" />
+    <Compile Include="Assets\dybdeove\movestokenes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
